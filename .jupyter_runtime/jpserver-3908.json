@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 3908,
+  "port": 8890,
+  "root_dir": "C:\\Users\\Atul\\Downloads\\Employee-Attrition-Prediction-Starter",
+  "secure": false,
+  "sock": "",
+  "token": "b346ef654420bdf7f758514b4f9ff46525ef1b5ff5e46d84",
+  "url": "http://localhost:8890/",
+  "version": "2.21.1"
+}

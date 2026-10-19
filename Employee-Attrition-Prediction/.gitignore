@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.log
+.DS_Store
+
+# Jupyter
+*.nbconvert.ipynb
+
+# Data and generated artifacts (review before committing)
+data/*.csv
+models/*
+!models/.gitkeep
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
